@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamLukas17
 - 👀 I’m interested in data analytics and front-end things
-- 🌱 I’m currently learning ... SQL and Javascript
+- 🌱 I’m currently learning ... R, SQL, and Javascript
 - 📫 How to reach me ... email me!
 
 <!---

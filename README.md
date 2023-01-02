@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AdamLukas17
-- 👀 I’m interested in data analytics and front-end things
-- 🌱 I’m currently learning ... R, SQL, and Javascript
+- 👋 Hi, I’m @AdamLukas17 or @ParmesanPapi17@hachyderm.io
+- 👀 I’m interested in web development and am always working on random personal projects. 
+- 🌱 I’m currently learning Javascript with React on the horizon. 
 - 📫 How to reach me ... email me!
 
 <!---

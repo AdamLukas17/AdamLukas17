@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AdamLukas17 or @ParmesanPapi17@hachyderm.io or @parmesanpapi17 on Threads
-- 👀 I’m interested in web development and am always working on random personal projects. 
-- 🌱 Currently into React, React Native, and Python.
+- 👋 Hi, I’m @parmesanpapi17
 - 📫 How to reach me ... email me!
 
 <!---

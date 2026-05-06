@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parmesanpapi17
+- 👋 Hi, I’m Adam
 - 📫 How to reach me ... email me!
 
 <!---
